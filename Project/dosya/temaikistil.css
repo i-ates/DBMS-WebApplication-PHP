@@ -1,0 +1,70 @@
+body {
+background-color:#F7F7F7;		
+}
+
+#a1 {
+min-height:80px;	
+}
+#a2{
+margin-top:20px; margin-left:15px;	
+background-color:#43796c;
+color:#fff;
+
+}
+#a3 {
+min-height:80px; font-size:40px;	
+}
+
+
+
+
+
+#sonuc {
+
+ min-height:650px;
+}
+
+#urunler {
+
+border-left:#DEDEDE 1px solid;
+
+}
+
+
+table {
+
+    border-spacing: 0;
+}
+
+tbody, thead tr { display: block; }
+
+tbody {
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+tbody td, thead th {
+    width: 170px;
+}
+
+thead th:last-child {
+    width: 140px; /* 140px + 16px scrollbar width */
+}
+#hop1 {
+	width:33%;
+	
+}
+#hop2 {
+	width:13%;
+	
+}
+#hop3 {
+	width:24%;
+	
+}
+#hop4 {
+	width:21%;
+	
+}
+

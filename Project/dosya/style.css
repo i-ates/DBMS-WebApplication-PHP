@@ -1,0 +1,54 @@
+#div1 {
+	min-height: 700px;
+
+}
+#div3 {
+	min-height: 100px; font-size:36px;
+
+}
+#div4 {
+	border-top: #626262 solid dashed;
+}
+#veri{
+	padding: 0;
+}
+[type='radio'] {
+	display: none;
+}
+.color{color:red;}
+table {
+
+    border-spacing: 0;
+}
+
+tbody, thead tr { display: block; }
+
+tbody {
+    height: 550px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+tbody td, thead th {
+    width: 170px;
+}
+
+thead th:last-child {
+    width: 140px; /* 140px + 16px scrollbar width */
+}
+#hop1 {
+	width:33%;
+	
+}
+#hop2 {
+	width:13%;
+	
+}
+#hop3 {
+	width:24%;
+	
+}
+#hop4 {
+	width:21%;
+	
+}

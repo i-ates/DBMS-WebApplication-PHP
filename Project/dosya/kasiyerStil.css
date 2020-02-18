@@ -1,0 +1,42 @@
+
+.kasiyerBar {
+	 background:#323232;
+    
+
+	
+}
+.SagcizgiK  {
+border-right:1px  #afaead  solid;
+color:#FEFEFE;	
+	
+	
+}
+.SolcizgiK  {
+border-left:1px  #afaead  solid;	
+	
+	
+}
+.icon1K {
+font-size:2em; border-radius:10px;	
+}
+.icon2K{
+font-size:15px; margin-left:10px;
+}
+.icon3K{
+font-size:20px;
+}
+
+#link:link, #link:visited {	
+text-decoration:none;	
+}
+#link:link {
+text-decoration:none;		
+}
+
+#Kasiyermasa {	
+	height:80px;
+	
+	font-size:35px;
+	border-radius:2px;
+
+}
